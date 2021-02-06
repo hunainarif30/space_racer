@@ -1,0 +1,17 @@
+SUBHAN	 NOMAN						1	3
+HASSAN	 TAHA						3	2
+SHAHEER	 USMAN						1	3
+JAMIL	 SHUKLA						0	3
+DANISH	 USMAN						1	3
+ASAD	 FARHAN						3	1
+SAYA	 HUZAIFA					3	2
+THOMAS	 ANTON						0	3
+ZOHAIB	 DANISH						3	0
+HUNAIN	 ZOHAIB						1	3
+SHAHEER	 MUSTANSIR					3	0
+YAHYA	 SHOAIB
+HUNAIN	 ZOHAIB						1	3
+UZAIR	 AGAMAGA					1	3
+WASI	 USAMA						0	3
+hunain	 subhan						3	2
+	 hunainhunain	 affan
